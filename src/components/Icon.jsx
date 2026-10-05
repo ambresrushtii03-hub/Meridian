@@ -1,0 +1,3 @@
+export const Icon=({d,cls='w-5 h-5',fill='none'})=>(<svg viewBox="0 0 24 24" className={cls} fill={fill} stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d={d}/></svg>);
+
+export const ICON={search:'M21 21l-4.3-4.3M11 18a7 7 0 100-14 7 7 0 000 14z',moon:'M21 12.8A9 9 0 1111.2 3a7 7 0 009.8 9.8z',sun:'M12 17a5 5 0 100-10 5 5 0 000 10zM12 1v2M12 21v2M4.2 4.2l1.4 1.4M18.4 18.4l1.4 1.4M1 12h2M21 12h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4',bm:'M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z',type:'M4 7V4h16v3M9 20h6M12 4v16',x:'M18 6L6 18M6 6l12 12',back:'M19 12H5M12 19l-7-7 7-7'};
