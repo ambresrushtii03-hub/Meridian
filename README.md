@@ -15,3 +15,5 @@ npm run build    # production build in /dist
 
 Cover photos come from LoremFlickr by keyword (edit `KW` in `data/articles.js`).
 If a photo fails to load, an illustrated SVG scene is shown instead.
+
+Deployment Link :- https://vercel.com/srushti-sachin-ambre-s-projects/meridian/GPqhg8Zwm58i9CQw2yLHj68iPkAW
